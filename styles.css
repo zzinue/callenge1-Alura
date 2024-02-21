@@ -11,6 +11,7 @@ h2 {
   display: flex;
   justify-content: center;
 }
+
 textarea {
   border-radius: 25px;
   display: flex;
@@ -23,13 +24,13 @@ button {
   justify-content: center;
 }
 .btn {
-  margin-top: 20px;
+  margin: 10px;
   display: flex;
   justify-content: space-around;
   padding: 10px;
 }
 .btn-encriptar {
-  padding: 10px;
+  padding: 7px;
   color: rgb(77, 69, 59);
   background-color: rgb(0, 241, 241);
   transition: all 0.2s ease-in-out;
@@ -39,7 +40,7 @@ button {
   color: black;
 }
 .btn-desencriptar {
-  padding: 10px;
+  padding: 7px;
   color: rgb(77, 69, 59);
   background-color: rgb(189, 106, 106);
   transition: all 0.2s ease-in-out;
